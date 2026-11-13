@@ -1,0 +1,36 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mpl_cache/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Presentation, Report & Document artifacts
+*.pptx
+*.docx
+*.pdf
+CAPSTONE_PROJECT_BLOG.md
+PROJECT_REPORT_AND_VIVA_GUIDE.md
+
+# Intermediate generation and debug scripts
+build_*.py
+check_*.py
+debug_*.py
+generate_*.py
+make_*.py
+update_*.py
+validate_*.py
+verify_*.py
+test_*.py
+
+# Large Poster Images
+figures/A1_Capstone_Project_Poster.*
