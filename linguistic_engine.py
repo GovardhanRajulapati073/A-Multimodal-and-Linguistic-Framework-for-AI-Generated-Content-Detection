@@ -38,7 +38,19 @@ HUMANIZER_SIGNATURE_LEXICON = {
     'trajectory', 'subservient', 'concomitant', 'plethora', 'myriad',
     'epitome', 'quintessential', 'metamorphosis', 'catalyst', 'explicate',
     'elucidate', 'salient', 'paucity', 'scintillating', 'germane', 'copious',
-    'indispensable apparatus', 'metamorphosed', 'interconnected mechanisms'
+    'indispensable apparatus', 'metamorphosed', 'interconnected mechanisms',
+    'progressively', 'innovative', 'streamline', 'utilize', 'utilizing',
+    'incorporate', 'incorporating', 'facilitate', 'facilitating', 'crucial',
+    'vital', 'indispensable', 'comprehensive', 'intricate', 'nuanced',
+    'holistic', 'mundane', 'profound', 'profoundly', 'notably',
+    'consequently', 'subsequently', 'predominantly', 'intrinsically',
+    'synergy', 'dynamic', 'meticulous', 'rigorous', 'seamless', 'robust',
+    'unwavering', 'foundational', 'cornerstone', 'linchpin', 'bedrock',
+    'keystone', 'overarching', 'interconnected', 'intricacies', 'complexities',
+    'dynamics', 'nuances', 'realms', 'facets', 'dimensions', 'trajectories',
+    'landscapes', 'paradigms', 'it is widely acknowledged',
+    'it is generally acknowledged', 'it is evident that', 'stands as a',
+    'plays a crucial role', 'serves as a', 'beacon of'
 }
 
 # Discourse markers common in raw LLMs (ChatGPT / Claude / Gemini)
